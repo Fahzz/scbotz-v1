@@ -12,7 +12,7 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./src/IMG-20220322-WA0026.jpg') //Gambarnye
 					},
-					"title": "LynXzy🥀", //Kasih namalu 
+					"title": "Fahzz", //Kasih namalu 
 					"description": "SELF BOT", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
@@ -33,7 +33,7 @@ const ftroli = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: 'LanXzy🥀', //Kasih namalu
+                            message: 'Fahzz', //Kasih namalu
                             orderTitle: 'Bang',
                             thumbnail: fs.readFileSync('./src/IMG-20220322-WA0026.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
