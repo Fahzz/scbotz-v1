@@ -316,8 +316,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                                     "description": "Menu Nulis & Logo",
                                     "rowId": ".? nulis"
                                 }, { 
-                                    "title": "|📺| Downloader",
-                                    "description": "Download Sesuatu Di Bot",
+                                    "title": "|📺| Downloader,Tiktok,Ig,Yt,Fb",
+                                    "description": "Download Vidio,Lagu",
                                     "rowId": ".? downloader"
                                 }, { 
                                     "title": "|🔧| Tools",
@@ -364,7 +364,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             }, {
                                 "rows": [{
                                     "title": "Owner bot",
-                                    "description": "pemilik RadBotZ",
+                                    "description": "pemilik Fahzz",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "Donasi",
